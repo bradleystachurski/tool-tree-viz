@@ -1,0 +1,161 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Tools",
+            "type": "t",
+            "children": [
+                {
+                    "name": "Python",
+                    "type": "g",
+                    "children": [
+                        {
+                            "name": "SciPy",
+                            "url": "http://scipy.org/",
+                            "type": "s"
+                        },
+                        {
+                            "name": "Pandas",
+                            "url": "http://pandas.pydata.org/",
+                            "type": "g"
+                        },
+                        {
+                            "name": "Seaborn",
+                            "url": "http://stanford.edu/~mwaskom/software/seaborn/",
+                            "type": "v"
+                        },
+                        {
+                            "name": "PyMC",
+                            "url": "http://pymc-devs.github.io/pymc/",
+                            "type": "s"
+                        },
+                        {
+                            "name": "scikit-learn",
+                            "url": "http://scikit-learn.org/stable/",
+                            "type": "s"
+                        }
+                    ]
+                },
+                {
+                    "name": "R",
+                    "type": "s",
+                    "children": [
+                        {
+                            "name": "H. Wickham",
+                            "url": "http://had.co.nz/",
+                            "type": "s"
+                        }
+                    ]
+                },
+                {
+                    "name": "Unix",
+                    "type": "g",
+                    "children": [
+                        {
+                            "name": "Make",
+                            "url": "https://en.wikipedia.org/wiki/Make_(software)",
+                            "type": "p"
+                        },
+                        {
+                            "name": "Awk",
+                            "url": "http://en.wikipedia.org/wiki/AWK",
+                            "type": "g"
+                        },
+                        {
+                            "name": "Sed",
+                            "url": "http://en.wikipedia.org/wiki/Sed",
+                            "type": "g"
+                        },
+                        {
+                            "name": "jq",
+                            "url": "http://stedolan.github.io/jq/",
+                            "type": "g"
+                        },
+                        {
+                            "name": "Zsh",
+                            "url": "http://www.zsh.org/",
+                            "type": "e"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hadoop",
+                    "url": "http://hadoop.apache.org/",
+                    "type": "g"
+                },
+                {
+                    "name": "Redshift",
+                    "url": "https://aws.amazon.com/redshift/",
+                    "type": "g"
+                },
+                {
+                    "name": "Redis",
+                    "url": "http://redis.io/",
+                    "type": "r"
+                },
+                {
+                    "name": "Git",
+                    "url": "http://git-scm.com/",
+                    "type": "p"
+                },
+                {
+                    "name": "Haskell",
+                    "url": "https://www.haskell.org/",
+                    "type": "g"
+                },
+                {
+                    "name": "Tmux",
+                    "url": "http://tmux.sourceforge.net/",
+                    "type": "e"
+                },
+                {
+                    "name": "Vim",
+                    "url": "http://www.vim.org/",
+                    "type": "e"
+                },
+                {
+                    "name": "Javascript",
+                    "type": "g",
+                    "children": [
+                        {
+                            "name": "React",
+                            "url": "https://facebook.github.io/react/",
+                            "type": "g"
+                        },
+                        {
+                            "name": "D3.js",
+                            "url": "http://d3js.org/",
+                            "type": "v"
+                        }
+                    ]
+                },
+                {
+                    "name": "Node.js",
+                    "type": "r",
+                    "children": [
+                        {
+                            "name": "Socket.IO",
+                            "url": "http://socket.io/",
+                            "type": "r"
+                        },
+                        {
+                            "name": "async",
+                            "url": "http://github.com/caolan/async",
+                            "type": "r"
+                        },
+                        {
+                            "name": "q",
+                            "url": "http://documentup.com/kriskowal/q/",
+                            "type": "r"
+                        },
+                        {
+                            "name": "Express",
+                            "url": "http://expressjs.com/",
+                            "type": "r"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
